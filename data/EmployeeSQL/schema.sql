@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS departments;
 -- Create new table
 CREATE TABLE departments (
   dept_no VARCHAR,
-  dept_name VARCHAR,
+  dept_name VARCHAR
 );
 
 -- Verify successful data import
