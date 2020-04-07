@@ -1,3 +1,3 @@
 # SQL_Berkeley
 
-All SQL-related projects here.
+This is my learning repo for SQL. PostgreSQL, SQLAdmin are the main tools used.
